@@ -51,8 +51,8 @@ $ cd DeepTP/example
 ```
 * Run the following command to predict the sequences in the example with the default settings:
 ```
-$ python ../Deep.py --seq example.fasta
+$ python ../DeepTP.py --seq example.fasta
 ```
 
 ## Citation  
-Wang Q, Xu T, Xu K, Lu Z, Ying J. Prediction of transport proteins from sequence information with the deep learning approach. Computers in Biology and Medicine (Accept).
+Wang Q, Xu T, Xu K, Lu Z, Ying J. Prediction of transport proteins from sequence information with the deep learning approach. Computers in Biology and Medicine. (Accept)
