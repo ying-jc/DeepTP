@@ -55,4 +55,4 @@ $ python ../Deep.py --seq example.fasta
 ```
 
 ## Citation  
-Xu T, Wang Q, Ying J. Prediction of transport proteins from sequence information with the deep learning approach. (Under review).
+Wang Q, Xu T, Xu K, Lu Z, Ying J. Prediction of transport proteins from sequence information with the deep learning approach. Computers in Biology and Medicine (Accept).
